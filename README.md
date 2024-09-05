@@ -1,8 +1,9 @@
 "Test Prompts" Script for Stable Diffusion A1111/Forge WebUI
 
-The Script let you select simple predefined prompts for Stable Diffusion A1111/Forge without a modifcation of the existing prompt / Neg. prompt fields.
+The Script let you select simple predefined prompts for Stable Diffusion A1111/Forge without a modifcation of the existing prompt / negative prompt fields.
 
-You can use a dynamic (-1) or a fixed Seed to use it. It also works in a text2img batch. The selections are combinable. By default it is set to be SFW but you can change that.
+You can use a dynamic (-1) or a fixed Seed to use it. It also works in a text2img batch. The selections are combinable. By default it is set to be (mostly) SFW but you can change that.
+*mostly because it depends on your choosen model how it react because it can just generate content only by predefined selected prompts without the usage of something like ex. nudenet as a filter. (You also can modify the script to make your own "predefined" Prompts if you dislike the current examples).
 
 Just put the Script into your Scripts Folder of your A1111 WebUI (or Forge WebUI) and restart the UI, select it in the "Scripts" Section of the User Interface to play around with.
 
