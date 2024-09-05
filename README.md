@@ -8,7 +8,7 @@ Just put the Script into your Scripts Folder of your A1111 WebUI (or Forge WebUI
 
 The idea was to find a test solution using "predefined" prompts just while you edit your regular prompt/neg.prompt to find out how your cfg/dimensions/aspectratio/model would react to different prompts of the one you just create without a modification of your p/np fields.
 
-Install: To install the script for your Stable Diffusion Forge/Automatic1111 WebUI just select "Install from URL" in your Extensions Tab. Restart the WebUI and select the Script at Scripts Section of the Text2Image or Image2Image Tab.
+Install: To install the script for your Stable Diffusion Forge/Automatic1111 WebUI just select "Install from URL" in your Extensions Tab. Restart the WebUI and select the Script at Scripts Section of the Txt2Img or Img2Img Tab.
 
 To disable the script and go back to the editing of your regular prompt just unselect the script.
 
