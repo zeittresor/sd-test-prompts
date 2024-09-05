@@ -6,7 +6,7 @@ You can use a dynamic (-1) or a fixed Seed to use it. It also works in a text2im
 
 Just put the Script into your Scripts Folder of your A1111 WebUI (or Forge WebUI) and restart the UI, select it in the "Scripts" Section of the User Interface to play around with.
 
-The idea was to find a test solution using "predefined" prompts just while you edit your regular prompt/neg.prompt to find out how your cfg/dimensions/aspectratio/model would react to different prompts of the one you just create without a modification of your prompt/negativ prompt fields.
+The idea was to find a test solution using "predefined" prompts just while you edit your regular prompt / negative prompt to find out how your cfg/dimensions/aspectratio/model would react to different prompts of the one you just create without a modification of your prompt / negativ prompt fields.
 
 Install: To install the script for your Stable Diffusion Forge/Automatic1111 WebUI just select "Install from URL" in your Extensions Tab. Restart the WebUI and select the Script at Scripts Section of the Txt2Img or Img2Img Tab.
 
